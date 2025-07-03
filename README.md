@@ -82,8 +82,6 @@ Follow these steps to set up the project locally:
 
 ## 📸 Screenshots
 
-*(Add screenshots of your portfolio website here)*  
-Example:  
 portfolio(https://portfolio-website-eight-virid.vercel.app/)  
 
 
