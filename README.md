@@ -99,7 +99,7 @@ Contributions are welcome! If you have suggestions or find any bugs, feel free t
 
 Feel free to reach out to me:
 
-- **Email**: aksharbisht2002@example.com   
+- **Email**: Sagarbisht171002@gmail.com 
 - **Portfolio**: [https://portfolio-website-eight-virid.vercel.app/](https://portfolio-website-eight-virid.vercel.app/)  
 - **LinkedIn**: [linkedin.com/in/sagar-bisht-235b25273](linkedin.com/in/sagar-bisht-235b25273) 
 
