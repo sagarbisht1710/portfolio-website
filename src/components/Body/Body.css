@@ -1,5 +1,5 @@
 .body {
-  background: url('/src/assets/bodyimage7.jpg') no-repeat center center/cover;
+  background: url('../../assets/bodyimage7.jpg') no-repeat center center/cover;
   height: 100vh;
   position: relative;
 }
