@@ -16,14 +16,14 @@ const Projects = () => {
       issuedBy: 'Personal Project',
       description: 'A responsive and interactive travel website built to showcase tour packages, destinations, and contact features. Designed with a user-friendly interface and modern front-end technologies, this project demonstrates a complete travel website UI.',
       technologies: 'HTML , CSS, JavaScript',
-      link: 'https://github.com/sagarbisht1710/Tour-Project-main.git',
+      link: 'https://sagarbisht1710.github.io/Tour-Project-main/',
     },
     {
       title: 'Quiz-Genie',
       issuedBy: 'Final year Project',
       description: 'Quiz Genie is a responsive AI-powered quiz generation website that allows users to create, customize, and take quizzes based on selected topics and difficulty levels. It features real-time question generation using the Gemine API, secure user authentication, and a smooth, interactive UI for an enhanced quiz-taking experience.   ',
       technologies: 'HTML, CSS, JavaScript , Bootstrap, Python, Flask, Gemine API, JWT Authentication   ',
-      link: 'https://github.com/sagarbisht1710/Quiz-genie',
+      link: 'https://quiz-genie.onrender.com/',
     },
      
   ];
