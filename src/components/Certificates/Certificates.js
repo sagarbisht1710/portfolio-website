@@ -20,9 +20,9 @@ const Certificates = () => {
       link: 'https://www.coursera.org/account/accomplishments/verify/SJYFTXEJUJ4N',
     },
     {
-      title: 'Introduction to the Internet of Things and Embedded Systems',
-      issuedBy: 'University of California, Irvine',
-      link: 'https://www.coursera.org/account/accomplishments/verify/427M8QXKSKZ5',
+      title: 'Introduction to Back-End Development',
+      issuedBy: 'Meta',
+      link: 'https://www.coursera.org/account/accomplishments/verify/FYZ7NMTH5CRK',
     },
     {
       title: 'Introduction to DevOps',
