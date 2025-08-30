@@ -23,7 +23,7 @@ const Projects = () => {
       issuedBy: 'Final year Project',
       description: 'Quiz Genie is a responsive AI-powered quiz generation website that allows users to create, customize, and take quizzes based on selected topics and difficulty levels. It features real-time question generation using the Gemine API, secure user authentication, and a smooth, interactive UI for an enhanced quiz-taking experience.   ',
       technologies: 'HTML, CSS, JavaScript , Bootstrap, Python, Flask, Gemine API, JWT Authentication   ',
-      link: 'https://quiz-genie.onrender.com/',
+      link: 'https://quiz-genie-pfub.onrender.com',
     },
      
   ];
